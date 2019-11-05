@@ -1,0 +1,12 @@
+[pewebuser@vdc-stg-automate ~]$ df -h
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/vgroot-lvroot
+                      7.9G  3.0G  4.5G  40% /
+tmpfs                 3.9G     0  3.9G   0% /dev/shm
+/dev/sda1              97M   63M   30M  69% /boot
+/dev/mapper/vgroot-lvhome
+                      2.0G  1.5G  392M  80% /home
+/dev/mapper/vgroot-lvopt
+                       13G   13G     0 100% /opt
+/dev/mapper/vgroot-lvvar
+                      9.9G  1.4G  8.0G  15% /var
